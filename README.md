@@ -11,7 +11,7 @@ Opis repozytorium
 ~~przekreslenie~~
 
 - punktowanie
-- info
+
 ---
 [odnosnik](adres)
 
